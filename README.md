@@ -11,3 +11,5 @@ echo '$VARIABLE'
 
 ♫```
 looks gôôd  
+
+carret : '^' : circumflex accent;      
